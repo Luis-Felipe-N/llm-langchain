@@ -6,7 +6,7 @@ Repositorio de estudo sobre llms e ferreamentas de integração.
 
 ### Ollama (local)
 
-Para testes e usarmodelos locais o **Ollama** funciona bem. Ele permite fazer testes mais complexos sem estourar o limite de tokens gratuitos ou gastar demais com APIs pagas.
+Para testes e usar modelos locais o **Ollama** funciona bem. Ele permite fazer testes mais complexos sem estourar o limite de tokens gratuitos ou gastar demais com APIs pagas como OpenAI, Anthropic, etc.
 
 - [Como Usar Ollama para LLMs no Seu Computador?](https://youtu.be/9Yz42WSISr4?si=aBVdWmfR8aQmtKD4)
 
